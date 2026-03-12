@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-03-12T19:28:38.012133 UTC
+# Last update: 2026-03-12T19:37:09.225280 UTC
 
 0.0.0.0 0900-8844politie.nlkombijde.politie.nldata.politie
 0.0.0.0 101apotheek.com
