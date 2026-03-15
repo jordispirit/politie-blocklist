@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/jordispirit/politie-blocklist/main/blocklist.t
 Dagelijks automatisch gescraped.
 
 Laatste update:
-2026-03-14T23:01:02.655223+00:00 UTC
+2026-03-15T23:01:02.529878+00:00 UTC
