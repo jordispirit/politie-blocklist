@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-03-30T22:01:02.244162+00:00 UTC
+# Last update: 2026-03-31T22:01:03.251777+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -89,6 +89,7 @@
 0.0.0.0 keepticket.com
 0.0.0.0 khujonederland.com
 0.0.0.0 kidoral.com
+0.0.0.0 kleertjes-outlet.com
 0.0.0.0 kleertjes-sale.com
 0.0.0.0 kleertjes.vip-outlet.com
 0.0.0.0 kleertjesnl-off.shop
