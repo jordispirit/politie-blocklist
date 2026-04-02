@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-04-01T22:01:02.417055+00:00 UTC
+# Last update: 2026-04-02T22:01:02.363011+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -177,6 +177,7 @@
 0.0.0.0 ted-baker-netherlands.com
 0.0.0.0 tedbakernloutlet.com
 0.0.0.0 terstal-nl.shop
+0.0.0.0 terstalshop.com
 0.0.0.0 testament.myshopify.com
 0.0.0.0 ticketbewust.nl
 0.0.0.0 ticketswap-account.com
