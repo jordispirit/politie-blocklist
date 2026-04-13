@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-04-12T22:01:02.353951+00:00 UTC
+# Last update: 2026-04-13T22:01:02.738199+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -163,6 +163,7 @@
 0.0.0.0 slaappillen-kopen.net
 0.0.0.0 slaappillen.net
 0.0.0.0 smarthome-discounter.nl
+0.0.0.0 smiletogo-fi.com
 0.0.0.0 sneaker-winkel.com
 0.0.0.0 sneakerreus.nl
 0.0.0.0 socialrites.com
@@ -192,6 +193,8 @@
 0.0.0.0 transparantie.html
 0.0.0.0 tuininnovatiewebshop.com
 0.0.0.0 uupetstore.com
+0.0.0.0 vandijkwonen.com
+0.0.0.0 vandijkwonen.shop
 0.0.0.0 vanharen-co.com
 0.0.0.0 vanharenonlinenl.com
 0.0.0.0 vanhoutenamsterdam.com
