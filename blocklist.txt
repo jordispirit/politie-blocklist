@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-04-13T22:01:02.738199+00:00 UTC
+# Last update: 2026-04-14T22:01:02.489619+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -46,6 +46,7 @@
 0.0.0.0 drionpil.com
 0.0.0.0 e.prshopmail.com
 0.0.0.0 electriccruisebikes.com
+0.0.0.0 elegantbricks.com
 0.0.0.0 elektricienbakker.nl
 0.0.0.0 elektrischefiets.is
 0.0.0.0 elevateq-nl.myecomstore.net
@@ -150,6 +151,7 @@
 0.0.0.0 researchchemicalskopen.net
 0.0.0.0 rituals.likesales.shop
 0.0.0.0 robahout.com
+0.0.0.0 rooklooshout.com
 0.0.0.0 rotterdamapotheek.com
 0.0.0.0 routinesfashions.com
 0.0.0.0 saddlebrown-dugong-708605.hostingersite.com
