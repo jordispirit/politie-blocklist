@@ -1,12 +1,13 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-04-27T22:01:02.602399+00:00 UTC
+# Last update: 2026-04-28T22:01:02.573176+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
 0.0.0.0 afzuigmotorkopen.nl
 0.0.0.0 akibaloot.com
 0.0.0.0 aldi-deal.com
+0.0.0.0 amped-bikes.nl
 0.0.0.0 amto.eu
 0.0.0.0 annafieldnederland.com
 0.0.0.0 apotheek-24.com
@@ -53,6 +54,7 @@
 0.0.0.0 elevateq-nl.myecomstore.net
 0.0.0.0 elevateq.myecomstore.net
 0.0.0.0 elevateq19.myecomstore.net
+0.0.0.0 elite-bikes.nl
 0.0.0.0 eu.vipssoutlet.shop
 0.0.0.0 eugymsharksale.com
 0.0.0.0 euthanasiagroup.com
@@ -157,7 +159,9 @@
 0.0.0.0 privacyverklaring.html
 0.0.0.0 reinholdrasenmaher.com
 0.0.0.0 researchchemicalskopen.net
+0.0.0.0 rijwielhandelbakker.com
 0.0.0.0 rituals.likesales.shop
+0.0.0.0 rmaignhr.shop
 0.0.0.0 robahout.com
 0.0.0.0 rooklooshout.com
 0.0.0.0 rotterdamapotheek.com
