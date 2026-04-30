@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-04-29T22:01:02.732244+00:00 UTC
+# Last update: 2026-04-30T22:01:02.765827+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -60,6 +60,7 @@
 0.0.0.0 euthanasiagroup.com
 0.0.0.0 facebook.com
 0.0.0.0 fatbike-discounter.com
+0.0.0.0 fatbikegarant.nl
 0.0.0.0 fietsbronwater.com
 0.0.0.0 firstlyrics.com
 0.0.0.0 fjallraven-se.sbs
@@ -106,6 +107,7 @@
 0.0.0.0 knitwear-sales.com
 0.0.0.0 koffie-m.com
 0.0.0.0 koffie365.com
+0.0.0.0 koffiehenk.com
 0.0.0.0 koffiekist.nl
 0.0.0.0 koffiemetro.com
 0.0.0.0 koffietools.nl
@@ -152,6 +154,7 @@
 0.0.0.0 pellets-skog.com
 0.0.0.0 philipppleinoutletnederland.com
 0.0.0.0 pleinwinkel.com
+0.0.0.0 pocketheroes.online
 0.0.0.0 pokezonetcg.com
 0.0.0.0 politie.nl
 0.0.0.0 prenatal-aanbieding.shop
@@ -210,6 +213,7 @@
 0.0.0.0 transparantie.html
 0.0.0.0 tuininnovatiewebshop.com
 0.0.0.0 uupetstore.com
+0.0.0.0 vanberkelrijwielhuis.com
 0.0.0.0 vandijkwonen.com
 0.0.0.0 vandijkwonen.shop
 0.0.0.0 vanharen-co.com
