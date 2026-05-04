@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-03T22:01:02.754659+00:00 UTC
+# Last update: 2026-05-04T22:01:02.632807+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -62,6 +62,7 @@
 0.0.0.0 fatbike-discounter.com
 0.0.0.0 fatbikegarant.nl
 0.0.0.0 fietsbronwater.com
+0.0.0.0 fietsvoorraad.is
 0.0.0.0 firstlyrics.com
 0.0.0.0 fjallraven-se.sbs
 0.0.0.0 flextvbox.com
@@ -91,6 +92,7 @@
 0.0.0.0 jacksmedia.nl
 0.0.0.0 jkdbed.com
 0.0.0.0 josmancars.net
+0.0.0.0 juliabrown.shop
 0.0.0.0 kamagra-kopen.nl
 0.0.0.0 kamagrabestellenshop.to
 0.0.0.0 kamagrajellyshop.com
@@ -156,6 +158,7 @@
 0.0.0.0 pipstudioutlet.com
 0.0.0.0 pleinwinkel.com
 0.0.0.0 pocketheroes.online
+0.0.0.0 pocketlegends.store
 0.0.0.0 pokezonetcg.com
 0.0.0.0 politie.nl
 0.0.0.0 prenatal-aanbieding.shop
@@ -167,6 +170,7 @@
 0.0.0.0 rituals.likesales.shop
 0.0.0.0 rmaignhr.shop
 0.0.0.0 robahout.com
+0.0.0.0 robertmoser.shop
 0.0.0.0 rooklooshout.com
 0.0.0.0 rotterdamapotheek.com
 0.0.0.0 routinesfashions.com
