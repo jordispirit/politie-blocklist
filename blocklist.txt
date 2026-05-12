@@ -1,11 +1,12 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-11T22:01:02.818224+00:00 UTC
+# Last update: 2026-05-12T22:01:02.795400+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
 0.0.0.0 afzuigmotorkopen.nl
 0.0.0.0 akibaloot.com
+0.0.0.0 aldi-budget.com
 0.0.0.0 aldi-deal.com
 0.0.0.0 amped-bikes.nl
 0.0.0.0 amto.eu
@@ -23,6 +24,7 @@
 0.0.0.0 be-casashops.com
 0.0.0.0 belgishout.com
 0.0.0.0 bentetour.com
+0.0.0.0 beversale-nl.com
 0.0.0.0 bikerss.nl
 0.0.0.0 bironl.com
 0.0.0.0 bricks-next.com
@@ -88,6 +90,7 @@
 0.0.0.0 hqwqnrtm.shop
 0.0.0.0 huisdiergeluk.com
 0.0.0.0 huismanagro.com
+0.0.0.0 huisvoordeel.nl
 0.0.0.0 hunter-nederland.com
 0.0.0.0 injectec.net
 0.0.0.0 instagram.com
@@ -186,6 +189,7 @@
 0.0.0.0 safetyelro.com
 0.0.0.0 schoonproducts.com
 0.0.0.0 seatseak.com
+0.0.0.0 sevenicons.nl
 0.0.0.0 shoeby-shop.com
 0.0.0.0 shoesmesale.com
 0.0.0.0 shoex.nl
@@ -194,6 +198,7 @@
 0.0.0.0 slaappillen-kopen.net
 0.0.0.0 slaappillen.net
 0.0.0.0 smarthome-discounter.nl
+0.0.0.0 smatixo.eu
 0.0.0.0 smiletogo-fi.com
 0.0.0.0 sneaker-winkel.com
 0.0.0.0 sneakerreus.nl
@@ -209,6 +214,8 @@
 0.0.0.0 tcgmarket24.com
 0.0.0.0 tcgmastershop.com
 0.0.0.0 team-visma.za.com
+0.0.0.0 techoutletnl.eu
+0.0.0.0 techstopnl.org
 0.0.0.0 ted-baker-netherlands.com
 0.0.0.0 tedbakernloutlet.com
 0.0.0.0 terstal-nl.shop
