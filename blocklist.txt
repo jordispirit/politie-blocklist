@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-12T22:01:02.795400+00:00 UTC
+# Last update: 2026-05-13T22:01:02.786049+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -109,6 +109,7 @@
 0.0.0.0 kleertjes-sale.com
 0.0.0.0 kleertjes.vip-outlet.com
 0.0.0.0 kleertjesnl-off.shop
+0.0.0.0 kleertjesnl.com
 0.0.0.0 klinische-apot.com
 0.0.0.0 kmcheck.de
 0.0.0.0 knitwear-sales.com
@@ -219,6 +220,7 @@
 0.0.0.0 ted-baker-netherlands.com
 0.0.0.0 tedbakernloutlet.com
 0.0.0.0 terstal-nl.shop
+0.0.0.0 terstals.shop
 0.0.0.0 terstalshop.com
 0.0.0.0 testament.myshopify.com
 0.0.0.0 thelake.sitedish.shop
