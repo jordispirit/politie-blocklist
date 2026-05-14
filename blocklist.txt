@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-13T22:01:02.786049+00:00 UTC
+# Last update: 2026-05-14T22:01:02.817326+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -167,6 +167,7 @@
 0.0.0.0 philipppleinoutletnederland.com
 0.0.0.0 pipstudioutlet.com
 0.0.0.0 pleinwinkel.com
+0.0.0.0 pme-legend-nl.shop
 0.0.0.0 pocketheroes.online
 0.0.0.0 pocketlegends.store
 0.0.0.0 pokezonetcg.com
