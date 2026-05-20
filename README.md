@@ -5,7 +5,7 @@ Automatisch gegenereerde blocklist gebaseerd op publicaties van Politie Nederlan
 Source:
 https://www.politie.nl/aangifte-of-melding-doen/bekende-malafide-handelspartijen.html
 
-Domains in list: **265**
+Domains in list: **266**
 
 ## Gebruik in Pi-hole
 
@@ -18,4 +18,4 @@ https://raw.githubusercontent.com/jordispirit/politie-blocklist/main/blocklist.t
 Dagelijks automatisch gescraped.
 
 Laatste update:
-2026-05-19T22:01:02.863125+00:00 UTC
+2026-05-20T22:01:03.778448+00:00 UTC
