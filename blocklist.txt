@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-28T22:01:02.666052+00:00 UTC
+# Last update: 2026-05-29T22:01:02.928817+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -26,6 +26,7 @@
 0.0.0.0 bentetour.com
 0.0.0.0 beversale-nl.com
 0.0.0.0 bikerss.nl
+0.0.0.0 biologischeplantenbescherming.com
 0.0.0.0 bironl.com
 0.0.0.0 blingomedia.com
 0.0.0.0 bricks-next.com
