@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-05-31T22:01:02.583478+00:00 UTC
+# Last update: 2026-06-01T22:01:03.560442+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -101,6 +101,7 @@
 0.0.0.0 jacksmedia.nl
 0.0.0.0 jkdbed.com
 0.0.0.0 josmancars.net
+0.0.0.0 jqghhxyp.shop
 0.0.0.0 juliabrown.shop
 0.0.0.0 kamagra-kopen.nl
 0.0.0.0 kamagrabestellenshop.to
