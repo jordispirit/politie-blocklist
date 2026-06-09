@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-06-08T22:01:02.780247+00:00 UTC
+# Last update: 2026-06-09T22:01:02.599875+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -44,6 +44,7 @@
 0.0.0.0 cookies.html
 0.0.0.0 crktyhyc.shop
 0.0.0.0 cs-teams.com
+0.0.0.0 cywirroe.shop
 0.0.0.0 data.politie.nl
 0.0.0.0 debruynco.com
 0.0.0.0 deloox.outlcoa.com
@@ -221,6 +222,7 @@
 0.0.0.0 spelspeelgoed.com
 0.0.0.0 splend-meubelen.com
 0.0.0.0 splicelife.com
+0.0.0.0 stardrones.nl
 0.0.0.0 startekbv.com
 0.0.0.0 stu-ssynederland.com
 0.0.0.0 stussyhoodienl.com
