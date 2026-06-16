@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-06-15T22:01:02.185369+00:00 UTC
+# Last update: 2026-06-16T22:01:02.316463+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -31,6 +31,7 @@
 0.0.0.0 biologischeplantenbescherming.com
 0.0.0.0 bironl.com
 0.0.0.0 blingomedia.com
+0.0.0.0 boomstammen-ribere.com
 0.0.0.0 bricks-next.com
 0.0.0.0 bricksnext.com
 0.0.0.0 brinkmanfietsspecialist.com
@@ -50,8 +51,8 @@
 0.0.0.0 debruijntweewielers.com
 0.0.0.0 debruijntweewielers.shop
 0.0.0.0 debruijntweewielers.store
-0.0.0.0 debruynco.com
 0.0.0.0 deloox.outlcoa.com
+0.0.0.0 deloox.store
 0.0.0.0 design69design.com
 0.0.0.0 diabetessensors.com
 0.0.0.0 disclaimer.html
@@ -230,6 +231,8 @@
 0.0.0.0 spelspeelgoed.com
 0.0.0.0 splend-meubelen.com
 0.0.0.0 splicelife.com
+0.0.0.0 stamhout-boischaut.com
+0.0.0.0 stammholz-ribere.com
 0.0.0.0 stardrones.nl
 0.0.0.0 startekbv.com
 0.0.0.0 stu-ssynederland.com
@@ -278,6 +281,7 @@
 0.0.0.0 velmart-amsterdam.com
 0.0.0.0 velours24.nl
 0.0.0.0 vessinederland.com
+0.0.0.0 voltwinkel.com
 0.0.0.0 wegoeuro.com
 0.0.0.0 whaleholidays.com
 0.0.0.0 willashoes.com
