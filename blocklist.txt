@@ -1,9 +1,10 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-06-17T22:01:02.276375+00:00 UTC
+# Last update: 2026-06-18T22:01:02.264719+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
+0.0.0.0 50styleoutlet.shop
 0.0.0.0 a-v-e-trading.myshopify.com
 0.0.0.0 afzuigmotorkopen.nl
 0.0.0.0 akibaloot.com
@@ -16,6 +17,7 @@
 0.0.0.0 asicsoutletnederland.com
 0.0.0.0 atlaskoffie.com
 0.0.0.0 audiotechnicas.com
+0.0.0.0 autohaus-plg.de
 0.0.0.0 babyverkoop.com
 0.0.0.0 bax-music.sa.com
 0.0.0.0 bax-music.za.com
@@ -143,6 +145,7 @@
 0.0.0.0 kwantum.be-sale.top
 0.0.0.0 kwantumgordijnen.com
 0.0.0.0 lawnfertilizernl.com
+0.0.0.0 lcmslguj.shop
 0.0.0.0 leenbakkernlofficial.com
 0.0.0.0 levilles.com
 0.0.0.0 licentiedeals.com
@@ -219,6 +222,7 @@
 0.0.0.0 shopcasashopvip.shop
 0.0.0.0 sinarbrand.com
 0.0.0.0 sissy-boyofficial.com
+0.0.0.0 sissy-boyoutlet.shop
 0.0.0.0 sissy-boys.shop
 0.0.0.0 sissy-boysell.top
 0.0.0.0 sissyboy-nl.top
