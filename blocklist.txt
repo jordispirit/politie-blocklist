@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-06-21T22:01:02.550874+00:00 UTC
+# Last update: 2026-06-22T22:01:02.352775+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -110,6 +110,7 @@
 0.0.0.0 injectec.net
 0.0.0.0 instagram.com
 0.0.0.0 jacksmedia.nl
+0.0.0.0 jacobs-outlet.nl
 0.0.0.0 jkdbed.com
 0.0.0.0 josmancars.net
 0.0.0.0 jqghhxyp.shop
@@ -158,6 +159,7 @@
 0.0.0.0 longchampnetherlands.com
 0.0.0.0 manfield-official.com
 0.0.0.0 manukahoningwinkel.com
+0.0.0.0 marliesdekkersale.top
 0.0.0.0 medicijnen-kopen.com
 0.0.0.0 medicijnhuis.com
 0.0.0.0 meubel-baas.nl
