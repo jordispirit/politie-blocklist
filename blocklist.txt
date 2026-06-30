@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-06-29T22:01:02.368357+00:00 UTC
+# Last update: 2026-06-30T22:01:02.363316+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -72,6 +72,7 @@
 0.0.0.0 elevateq19.myecomstore.net
 0.0.0.0 elite-bikes.nl
 0.0.0.0 epic-builds.nl
+0.0.0.0 epicbuilds.nl
 0.0.0.0 eu.vipssoutlet.shop
 0.0.0.0 eugymsharksale.com
 0.0.0.0 euro-services-viti.com
@@ -140,6 +141,7 @@
 0.0.0.0 koffiekist.nl
 0.0.0.0 koffiemetro.com
 0.0.0.0 koffiepaleis.com
+0.0.0.0 koffieplezier.com
 0.0.0.0 koffietools.nl
 0.0.0.0 kombijde.politie.nl
 0.0.0.0 koopcool.com
