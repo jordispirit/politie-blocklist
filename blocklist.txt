@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-01T22:01:03.584331+00:00 UTC
+# Last update: 2026-07-02T22:01:02.391723+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -18,6 +18,7 @@
 0.0.0.0 atlaskoffie.com
 0.0.0.0 audiotechnicas.com
 0.0.0.0 autohaus-plg.de
+0.0.0.0 babypark.saleseuoutlet.com
 0.0.0.0 babyverkoop.com
 0.0.0.0 bax-music.sa.com
 0.0.0.0 bax-music.za.com
@@ -232,6 +233,8 @@
 0.0.0.0 sissy-boys.shop
 0.0.0.0 sissy-boysell.top
 0.0.0.0 sissy-boyworld.shop
+0.0.0.0 sissyboy-hot.top
+0.0.0.0 sissyboy-nl.shop
 0.0.0.0 sissyboy-nl.top
 0.0.0.0 slaappillen-kopen.net
 0.0.0.0 slaappillen.net
