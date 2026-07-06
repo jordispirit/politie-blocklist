@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-05T22:01:03.794581+00:00 UTC
+# Last update: 2026-07-06T22:01:02.524415+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -312,6 +312,7 @@
 0.0.0.0 worldwallexx.com
 0.0.0.0 x.com
 0.0.0.0 youtube.com
+0.0.0.0 zeemanstyle.com
 0.0.0.0 zenith-reizen.com
 0.0.0.0 zenith-reizen.nl
 0.0.0.0 zimu.nl
