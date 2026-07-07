@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-06T22:01:02.524415+00:00 UTC
+# Last update: 2026-07-07T22:01:02.378432+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -42,6 +42,7 @@
 0.0.0.0 casashopsale.com
 0.0.0.0 casashopsshop.com
 0.0.0.0 centralsport.nl
+0.0.0.0 cloverdtrade.com
 0.0.0.0 condooms-shop.com
 0.0.0.0 condormedia.nl
 0.0.0.0 contactformulier-ecrime.html
@@ -57,6 +58,7 @@
 0.0.0.0 deloox.store
 0.0.0.0 design69design.com
 0.0.0.0 devuurgenoten.com
+0.0.0.0 dgzr-clothing.nl
 0.0.0.0 diabetessensors.com
 0.0.0.0 disclaimer.html
 0.0.0.0 divingshop.nl
@@ -90,6 +92,7 @@
 0.0.0.0 fogellas.com
 0.0.0.0 fonqofficialstore.com
 0.0.0.0 foso.eu
+0.0.0.0 fueloutlets.com
 0.0.0.0 g-starvip.com
 0.0.0.0 gabor.eu-onsales.shop
 0.0.0.0 gereedschapcenter.com
@@ -160,6 +163,7 @@
 0.0.0.0 linkedin.com
 0.0.0.0 little-dutch-it.uk
 0.0.0.0 little-dutch.it.com
+0.0.0.0 little-dutch.nlverkoop.com
 0.0.0.0 logisticsolutions.eu
 0.0.0.0 longchampnetherlands.com
 0.0.0.0 manfield-official.com
@@ -191,6 +195,7 @@
 0.0.0.0 peemoni.com
 0.0.0.0 pellets-skog.com
 0.0.0.0 philipppleinoutletnederland.com
+0.0.0.0 pinkgellac.outlcoa.com
 0.0.0.0 pipstudioutlet.com
 0.0.0.0 pleinwinkel.com
 0.0.0.0 pme-legend-nl.shop
@@ -244,7 +249,9 @@
 0.0.0.0 smiletogo-fi.com
 0.0.0.0 sneaker-winkel.com
 0.0.0.0 sneakerreus.nl
+0.0.0.0 snipes-outlet.nl
 0.0.0.0 socialrites.com
+0.0.0.0 sparkwardrobe.com
 0.0.0.0 spelspeelgoed.com
 0.0.0.0 splend-meubelen.com
 0.0.0.0 splicelife.com
@@ -286,6 +293,7 @@
 0.0.0.0 uupetstore.com
 0.0.0.0 vagabond-official.com
 0.0.0.0 vanberkelrijwielhuis.com
+0.0.0.0 vandergardetuinmeubelen-premium.com
 0.0.0.0 vandijkwonen.com
 0.0.0.0 vandijkwonen.shop
 0.0.0.0 vanharen-co.com
