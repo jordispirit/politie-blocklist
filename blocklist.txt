@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-07T22:01:02.378432+00:00 UTC
+# Last update: 2026-07-08T22:01:02.585812+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -90,6 +90,7 @@
 0.0.0.0 fjallraven-se.sbs
 0.0.0.0 flextvbox.com
 0.0.0.0 fogellas.com
+0.0.0.0 fonqofficial.com
 0.0.0.0 fonqofficialstore.com
 0.0.0.0 foso.eu
 0.0.0.0 fueloutlets.com
@@ -192,6 +193,7 @@
 0.0.0.0 owalanetherlands.com
 0.0.0.0 ozempic-online.net
 0.0.0.0 pakjedealsnu.nl
+0.0.0.0 parfumgenot.com
 0.0.0.0 peemoni.com
 0.0.0.0 pellets-skog.com
 0.0.0.0 philipppleinoutletnederland.com
@@ -205,6 +207,7 @@
 0.0.0.0 politie.nl
 0.0.0.0 prenatal-aanbieding.shop
 0.0.0.0 prenatal.saleseuoutlet.com
+0.0.0.0 prenatals.saleseuoutlet.com
 0.0.0.0 prismcards.shop
 0.0.0.0 privacyverklaring.html
 0.0.0.0 pro-truckmarket.com
