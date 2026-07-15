@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-14T22:01:02.497273+00:00 UTC
+# Last update: 2026-07-15T22:01:02.458197+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -38,6 +38,7 @@
 0.0.0.0 bricksnext.com
 0.0.0.0 brinkmanfietsspecialist.com
 0.0.0.0 brunomars-officieel.com
+0.0.0.0 bunx-nlstore.com
 0.0.0.0 bzeumtbg.shop
 0.0.0.0 casashopsale.com
 0.0.0.0 casashopsshop.com
@@ -181,6 +182,7 @@
 0.0.0.0 mindfulgenix.myecomstore.net
 0.0.0.0 modafinil-kopen.io
 0.0.0.0 modehuisniselbeek.com
+0.0.0.0 molenaarwonen.com
 0.0.0.0 my.jewellerysale.sbs
 0.0.0.0 myjewelerynl.com
 0.0.0.0 myjewlleriynl.com
