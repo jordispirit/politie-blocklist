@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-15T22:01:02.458197+00:00 UTC
+# Last update: 2026-07-16T22:01:03.879616+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -39,6 +39,7 @@
 0.0.0.0 brinkmanfietsspecialist.com
 0.0.0.0 brunomars-officieel.com
 0.0.0.0 bunx-nlstore.com
+0.0.0.0 bunxnl.com
 0.0.0.0 bzeumtbg.shop
 0.0.0.0 casashopsale.com
 0.0.0.0 casashopsshop.com
@@ -229,7 +230,6 @@
 0.0.0.0 rooklooshout.com
 0.0.0.0 rotterdamapotheek.com
 0.0.0.0 routinesfashions.com
-0.0.0.0 ruvenia.nl
 0.0.0.0 sachanlonline.com
 0.0.0.0 saddlebrown-dugong-708605.hostingersite.com
 0.0.0.0 safetyelro.com
@@ -320,6 +320,8 @@
 0.0.0.0 velours24.nl
 0.0.0.0 verbeekwonen.com
 0.0.0.0 vessinederland.com
+0.0.0.0 vingino-nl.top
+0.0.0.0 vingino.top
 0.0.0.0 voltwinkel.com
 0.0.0.0 wegoeuro.com
 0.0.0.0 whaleholidays.com
@@ -331,6 +333,7 @@
 0.0.0.0 woonwinkel-nl.com
 0.0.0.0 worldwallexx.com
 0.0.0.0 x.com
+0.0.0.0 xgtechnology.com
 0.0.0.0 youtube.com
 0.0.0.0 zeemanstyle.com
 0.0.0.0 zenith-reizen.com
