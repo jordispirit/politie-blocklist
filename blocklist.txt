@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-20T22:01:02.381289+00:00 UTC
+# Last update: 2026-07-21T22:01:03.451592+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -310,6 +310,7 @@
 0.0.0.0 vandergardetuinmeubelen-premium.com
 0.0.0.0 vandijkwonen.com
 0.0.0.0 vandijkwonen.shop
+0.0.0.0 vanelzen-outlet.nl
 0.0.0.0 vanharen-co.com
 0.0.0.0 vanharenonlinenl.com
 0.0.0.0 vanhoutenamsterdam.com
@@ -323,6 +324,7 @@
 0.0.0.0 verbeekwonen.com
 0.0.0.0 vessinederland.com
 0.0.0.0 vingino-nl.top
+0.0.0.0 vingino-sale.top
 0.0.0.0 vingino.top
 0.0.0.0 voltwinkel.com
 0.0.0.0 wegoeuro.com
