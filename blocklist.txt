@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-21T22:01:03.451592+00:00 UTC
+# Last update: 2026-07-22T22:01:02.370745+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -93,6 +93,7 @@
 0.0.0.0 fjallraven-se.sbs
 0.0.0.0 flextvbox.com
 0.0.0.0 fogellas.com
+0.0.0.0 fonq-official.com
 0.0.0.0 fonqofficial.com
 0.0.0.0 fonqofficialstore.com
 0.0.0.0 foso.eu
@@ -112,6 +113,7 @@
 0.0.0.0 hats-shop.com
 0.0.0.0 hazekamptweewielers.com
 0.0.0.0 healsdaily.com
+0.0.0.0 heinendelftsblauw-nl.com
 0.0.0.0 hollandsemedici.com
 0.0.0.0 hornbachnl.com
 0.0.0.0 hqwqnrtm.shop
@@ -341,7 +343,6 @@
 0.0.0.0 youtube.com
 0.0.0.0 zeemanstyle.com
 0.0.0.0 zenith-reizen.com
-0.0.0.0 zenith-reizen.nl
 0.0.0.0 zimu.nl
 0.0.0.0 zonderrecept.net
 0.0.0.0 zqibhvum.shop
