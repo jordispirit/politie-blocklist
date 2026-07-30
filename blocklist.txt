@@ -1,12 +1,13 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-07-29T22:01:02.514398+00:00 UTC
+# Last update: 2026-07-30T22:01:02.381794+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
 0.0.0.0 50styleoutlet.shop
 0.0.0.0 a-v-e-trading.myshopify.com
 0.0.0.0 afzuigmotorkopen.nl
+0.0.0.0 airco-koning.com
 0.0.0.0 akibaloot.com
 0.0.0.0 aldi-budget.com
 0.0.0.0 aldi-deal.com
@@ -46,6 +47,7 @@
 0.0.0.0 cloverdtrade.com
 0.0.0.0 condooms-shop.com
 0.0.0.0 condormedia.nl
+0.0.0.0 condormediabv.com
 0.0.0.0 contactformulier-ecrime.html
 0.0.0.0 cookies.html
 0.0.0.0 crktyhyc.shop
@@ -67,6 +69,7 @@
 0.0.0.0 dream-cars-it.com
 0.0.0.0 drionpil.com
 0.0.0.0 e.prshopmail.com
+0.0.0.0 electivo.shop
 0.0.0.0 electriccruisebikes.com
 0.0.0.0 elektricienbakker.nl
 0.0.0.0 elektrischefiets.is
@@ -81,7 +84,6 @@
 0.0.0.0 euthanasiagroup.com
 0.0.0.0 facebook.com
 0.0.0.0 fatbike-discounter.com
-0.0.0.0 fatbikegarant.nl
 0.0.0.0 fatbikesz.nl
 0.0.0.0 fatbikeszz.nl
 0.0.0.0 fietsbronwater.com
@@ -144,6 +146,7 @@
 0.0.0.0 klinische-apot.com
 0.0.0.0 kmcheck.de
 0.0.0.0 knitwear-sales.com
+0.0.0.0 koffani.com
 0.0.0.0 koffie-koop.com
 0.0.0.0 koffie-m.com
 0.0.0.0 koffie24.com
@@ -198,6 +201,7 @@
 0.0.0.0 oldertveenstraautos.com
 0.0.0.0 online-medicijn.com
 0.0.0.0 online-medicijnen-apotheek.com
+0.0.0.0 outletzeeman.shop
 0.0.0.0 outlook.com
 0.0.0.0 owalanetherlands.com
 0.0.0.0 ozempic-online.net
@@ -210,7 +214,6 @@
 0.0.0.0 pipstudioutlet.com
 0.0.0.0 pleinwinkel.com
 0.0.0.0 pme-legend-nl.shop
-0.0.0.0 pocketheroes.online
 0.0.0.0 pocketlegends.store
 0.0.0.0 pokezonetcg.com
 0.0.0.0 politie.nl
