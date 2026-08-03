@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-08-02T22:01:02.439672+00:00 UTC
+# Last update: 2026-08-03T22:01:02.447241+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -186,6 +186,7 @@
 0.0.0.0 mindfulgenix.myecomstore.net
 0.0.0.0 modafinil-kopen.io
 0.0.0.0 modehuisniselbeek.com
+0.0.0.0 modivia-fatbikes.nl
 0.0.0.0 molenaarwonen.com
 0.0.0.0 molox-nl.com
 0.0.0.0 my.jewellerysale.sbs
@@ -214,7 +215,6 @@
 0.0.0.0 pipstudioutlet.com
 0.0.0.0 pleinwinkel.com
 0.0.0.0 pme-legend-nl.shop
-0.0.0.0 pocketlegends.store
 0.0.0.0 pokezonetcg.com
 0.0.0.0 politie.nl
 0.0.0.0 prenatal-aanbieding.shop
