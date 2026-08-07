@@ -1,6 +1,6 @@
 # Politie NL malafide handelspartijen
 # Source: politie.nl
-# Last update: 2026-08-06T22:01:02.457372+00:00 UTC
+# Last update: 2026-08-07T22:01:02.450747+00:00 UTC
 
 0.0.0.0 101apotheek.com
 0.0.0.0 123kamagra.nl
@@ -166,6 +166,7 @@
 0.0.0.0 lachgasbezorgenamsterdam.nl
 0.0.0.0 lawnfertilizernl.com
 0.0.0.0 lcmslguj.shop
+0.0.0.0 leenbakkerkastennl.com
 0.0.0.0 leenbakkernlofficial.com
 0.0.0.0 levilles.com
 0.0.0.0 licentiedeals.com
@@ -177,6 +178,7 @@
 0.0.0.0 little-dutch.nlverkoop.com
 0.0.0.0 logisticsolutions.eu
 0.0.0.0 longchampnetherlands.com
+0.0.0.0 loungeleven.nl
 0.0.0.0 manfield-official.com
 0.0.0.0 manukahoningwinkel.com
 0.0.0.0 marliesdekkersale.top
@@ -285,6 +287,7 @@
 0.0.0.0 tcg-world.nl
 0.0.0.0 tcgmarket24.com
 0.0.0.0 tcgmastershop.com
+0.0.0.0 tcgtopia.nl
 0.0.0.0 team-visma.za.com
 0.0.0.0 techoutletnl.eu
 0.0.0.0 techstopnl.org
